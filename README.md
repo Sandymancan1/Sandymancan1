@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sandymancan1
 - 👀 I’m interested in BLockchain making it's mark on the new world
-- 🌱 I’m currently learning SQL, Java, Python
+- 🌱 I’m currently learning SQL, JS, TS and Python
 - 💞️ I’m looking to collaborate on Solfloats (NFT), Level Commercial Whitepaper
 - 📫 How to reach me @MaxSands (discord) @Sandymancan (Twitter)
 
